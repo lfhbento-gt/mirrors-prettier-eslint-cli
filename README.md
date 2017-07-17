@@ -5,7 +5,7 @@ Mirror of prettier-eslint-cli package for pre-commit.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
 
-For prettier-eslint-cli: see https://github.com/eslint/prettier-eslint-cli
+For prettier-eslint-cli: see https://github.com/prettier/prettier-eslint-cli
 
 
 ### Using prettier-eslint-cli with pre-commit
