@@ -15,4 +15,4 @@ Add this to your `.pre-commit-config.yaml`:
     -   repo: git://github.com/lfhbento/mirrors-prettier-eslint-cli
         sha: ''  # Use the sha you want to point at
         hooks:
-        -   id: prettier-eslint-cli
+        -   id: prettier-eslint
